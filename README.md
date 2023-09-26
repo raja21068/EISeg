@@ -7,4 +7,4 @@
 
 ## 最新动向
 
-- [2022.7.20] 为了减少重复工作以集中精力做好后续的开发和维护工作，**后续EISeg将仅在飞桨官方仓库[PaddlePaddle/PaddeSeg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.6/EISeg)下进行更新，现有代码仓库将不再更新**。非常感谢大家的一路相伴与支持，EISeg将竭诚为大家提供更多更好用的标注功能，欢迎大家去新的地址体验，也希望大家继续支持。
+- [2022.7.20] In order to reduce duplication of work and focus on subsequent development and maintenance work, **Follow-up EISeg will only be available in the official PaddlePaddle repository [PaddlePaddle/PaddeSeg](https://github.com/PaddlePaddle/PaddleSeg /tree/release/2.6/EISeg), the existing code repository will no longer be updated**. Thank you very much for your company and support along the way. EISeg will wholeheartedly provide you with more and better annotation functions. You are welcome to experience it at the new address, and I hope you will continue to support us.
